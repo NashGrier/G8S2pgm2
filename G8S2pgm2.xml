@@ -1,8 +1,8 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="controls_repeat" id="29" inline="true" x="113" y="98">
     <value name="TIMES">
-      <block type="math_number" id="36">
-        <field name="NUM">600</field>
+      <block type="math_number" id="76">
+        <field name="NUM">900000000000</field>
       </block>
     </value>
     <statement name="DO">
